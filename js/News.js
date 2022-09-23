@@ -11,6 +11,7 @@ export const News = (element) => {
                 <p class="container" id="text">
                 ${element.text}
                 </p>
+                <br>
             </div>
         </a> 
     </div>
