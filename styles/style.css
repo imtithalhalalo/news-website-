@@ -1,4 +1,11 @@
 .box {
-    background-color: rgb(232, 232, 232);
-    border-radius: 15px;
+  background-color: rgb(232, 232, 232);
+  border-radius: 15px;
+}
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
 }
