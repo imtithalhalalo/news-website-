@@ -11,6 +11,11 @@ export const News = (element) => {
                 <p class="container" id="text">
                 ${element.text}
                 </p>
+                <button type="button" class="btn btn-dark"> <a
+                href="${element.url_website}"
+                >Discover More
+                </a>
+                </button>
                 <br>
             </div>
         </a> 
